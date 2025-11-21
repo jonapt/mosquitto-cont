@@ -8,11 +8,12 @@ Intancia aws linux
 ### Instalar Git y Docker
 ```
 sudo dnf install -y git
-
 sudo dnf install -y docker
+```
 
+### Entrar a carpeta
+```
 git clone https://github.com/jonapt/mosquitto-cont.git
-
 cd mosquitto-cont
 ```
 
