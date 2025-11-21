@@ -47,7 +47,7 @@ sudo docker compose up -d
 ```
 python generador.py [User]
 ```
-Cada vez que se cree un usuario se debe reiniciar el contendor
+Cada vez que se cree un usuario se debe reiniciar el contenedor
 
 ### Revisar usuarios
 ```
