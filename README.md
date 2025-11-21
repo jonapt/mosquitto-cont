@@ -4,7 +4,7 @@ Contenedor con mqtt
 
 Instalación del contenedor
 Intancia aws linux
-- **Nota**: Se recomeindo ejecutar linea por linea los comandos
+- **Nota**: Se recomienda ejecutar linea por linea los comandos
 
 
 ### Instalar Git
