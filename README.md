@@ -43,11 +43,22 @@ sudo docker compose up -d
 ```
 ./users/create_user.sh [User] [Password]
 ```
+### Generador de contraseñas
+```
+python generador.py [User]
+```
+Cada vez que se cree un usuario se debe reiniciar el contendor
+
+### Revisar usuarios
+```
+cat mosquitto/config/passwords.txt
+```
+
 
 ### Reiniciar broker
 ```
-docker compose down
-docker compose up -d
+sudo docker compose down
+sudo docker compose up -d
 ```
 
 
